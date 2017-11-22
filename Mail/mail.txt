@@ -1,0 +1,7 @@
+Dear $name ,
+
+Thank you for registering for the course $cName . This mail is to inform you that the orientation class of the course will take place on 24th of this month at $time am.The class will be held in the facility of Omeca Admission Care in Farmgate. We hope that you will be joining us.
+If you can not attend the class on the mentioned time and date, please let us know the problem so that we can sort out a solution. And feel free to bring anyone interested along with you. This course will contain a good number of participatory exercises and doing them in groups can make the experience more fun.
+
+Regards,
+Team Interplanetar.
